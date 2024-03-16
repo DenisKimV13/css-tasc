@@ -1,1 +1,1 @@
-https://github.com/DenisKimV13/css-tasc.git
+https://deniskimv13.github.io/css-tasc/
